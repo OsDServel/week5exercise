@@ -1,5 +1,22 @@
+/*NAVBAR SECTION*/
  nav li {
  	display: inline-block;
- 	position: relative;
- 	right: 0px;
+ 	text-align: right;
+ 	color: forestgreen;
 }
+
+/*HELLO WORLD*/
+.bg-dark h1 {
+	font-size: 60px;
+	position: relative;
+	right: -50%;
+
+}
+.bg-dark button {
+	position: relative;
+	right: -75%;
+}
+.bg-dark p, h1{
+	margin-right: 100px;
+}
+/*3 BOX SECTION*/
